@@ -2,9 +2,7 @@
 
 Public logo catalog for GearSync.
 
-Logos are sourced from Simple Icons where available and kept as SVG files with transparent backgrounds.
-
-Important: brand logos may be trademarks of their respective owners. The included Simple Icons assets are distributed under CC0-1.0, but trademark rights are not granted by that license.
+The catalog is intentionally empty for now. Only transparent, full-color or project-approved logos should be added here.
 
 Catalog URL:
 
